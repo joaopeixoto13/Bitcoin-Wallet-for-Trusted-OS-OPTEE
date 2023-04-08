@@ -13,8 +13,7 @@ Noteworthy is its comparable performance to C, as well as its growing popularity
 domains including system programming, making it an ideal choice for
 implementation of critical applications. Should be noted the challenge of porting the applications to the
 new language, maintaining security and efficiency, in addition to becoming familiar with the
-Armv8-A architecture and **Arm TrustZone technology used in virtually all Android phones**. The student will use open-source project tools, such as qemu and
-gdb. 
+Armv8-A architecture and **Arm TrustZone technology used in virtually all Android phones**. 
 
 In the end, we will have the support for TEEs of architecture Armv8-A and have implemented a reliable client application in Rust, so that these
 run on a complete system that includes the Linux operating system, ensuring a system safety and efficiency.
